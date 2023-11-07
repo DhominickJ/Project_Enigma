@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://db8rftkgd7kct"
-path="res://.godot/imported/head.png-a0fa805416b93d47cfcd5873ec793d42.ctex"
+path="res://.godot/imported/head.png-7bc203ec007adda000532ff1459dc558.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets - Team/Photo Manipulation/New Characters/Jumping/Character Rigging/head.png"
-dest_files=["res://.godot/imported/head.png-a0fa805416b93d47cfcd5873ec793d42.ctex"]
+source_file="res://Assets/Character_Sprite/Character_Layered/head.png"
+dest_files=["res://.godot/imported/head.png-7bc203ec007adda000532ff1459dc558.ctex"]
 
 [params]
 

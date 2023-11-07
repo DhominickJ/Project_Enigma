@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsk373tcgvqyq"
-path="res://.godot/imported/left_foot.png-3b5d7a1e0014288de52f612e490546c4.ctex"
+path="res://.godot/imported/left_foot.png-acdaeea1296e903bf15a8b7d3d2ffaf5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets - Team/Photo Manipulation/New Characters/Jumping/Character Rigging/left_foot.png"
-dest_files=["res://.godot/imported/left_foot.png-3b5d7a1e0014288de52f612e490546c4.ctex"]
+source_file="res://Assets/Character_Sprite/Character_Layered/left_foot.png"
+dest_files=["res://.godot/imported/left_foot.png-acdaeea1296e903bf15a8b7d3d2ffaf5.ctex"]
 
 [params]
 
